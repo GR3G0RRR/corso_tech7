@@ -1,7 +1,7 @@
 ### Esercizio di Gruppo con GitHub: Creare una Barra di Navigazione con Pagine Multiple
 
 Prima di cominciare, clonate la repo => https://github.com/canniz/corso_tech7
-
+gbnth
 #### Obiettivo
 L'obiettivo di questo esercizio è lavorare in coppie (o gruppi di tre) per creare una barra di navigazione che collega due (o tre) pagine web. Ogni membro del gruppo lavorerà su una pagina specifica. Utilizzeranno Git e GitHub Desktop per gestire il progetto, applicando i concetti di branching, commit, push, pull, merge e risoluzione dei conflitti.
 
